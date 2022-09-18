@@ -18,29 +18,48 @@ h1,
 h2{
 
     text-align:center;
-
 }
-img {
+
+h3{
+
+    text-align:left;
+}
+
+.image1 {
+
     display:block;
     height:50px;
     width:50px;
     margin-left:auto;
     margin-right:auto;
+}
+
+i.image2 {
+
+    display:block;
+    height:100%;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
 
 }
+
 ul {
 
     padding-left: 40px;
     font-size: 20px;
 
 }
+
 p {
+
     text-align: center;
     font-size: 30px;
 
 }
 
 .card {
+
     width: 80%;
     margin: 40px auto;
     border: 5px solid grey;
